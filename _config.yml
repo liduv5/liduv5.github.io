@@ -15,7 +15,7 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://liduv5.github.io
 root: /
-permalink: :category/:title/
+permalink: :category/:url_name/
 permalink_defaults:
 
 # Directory
@@ -54,8 +54,9 @@ index_generator:
   order_by: -date
 
 # Category & Tag
-default_category: uncategorized
+default_category: article
 category_map:
+          #生活: life #分类别名
 tag_map:
 
 # Date / Time format

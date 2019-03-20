@@ -3,6 +3,7 @@ title: hexo+github pages搭建个人博客（一）
 date: 2019-03-18 12:12:12
 categories: hexo
 tags: [hexo,github]
+url_name: hexo-github_pages1
 ---
 使用Hexo+gitHub Pages搭建个人博客的流程。
 

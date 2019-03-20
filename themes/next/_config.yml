@@ -106,7 +106,7 @@ footer:
 creative_commons:
   license: by-nc-sa
   sidebar: false
-  post: false
+  post: true
   language:
 
 
@@ -1080,7 +1080,3 @@ vendors:
 css: css
 js: js
 images: images
-
-# 文章末尾添加“本文结束”标记
-passage_end_tag:
-  enabled: true

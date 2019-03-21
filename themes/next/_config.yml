@@ -145,7 +145,7 @@ menu:
   categories: /categories/ || th
   archives: /archives/ || archive
   tags: /tags/ || tags
-  about: /about/ || user 
+  about: /about/ || user
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
@@ -398,7 +398,7 @@ cheers_enabled: true
 # Arial | Tahoma | Helvetica | Times New Roman | Courier New | Verdana | Georgia | Palatino | Garamond | Comic Sans MS | Trebuchet MS
 # ---------------------------------------------------------------
 font:
-  enable: false
+  enable: true
 
   # Uri of fonts host, e.g. //fonts.googleapis.com (Default).
   host:
@@ -432,7 +432,7 @@ font:
   logo:
     external: true
     family:
-    size:
+    size: 26
 
   # Font settings for <code> and code blocks.
   codes:
